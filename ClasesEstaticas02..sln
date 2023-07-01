@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesEstaticas02.Consola", "..\ClasesEstaticas02\ClasesEstaticas02.Consola\ClasesEstaticas02.Consola.csproj", "{F34B7C2C-9E7E-4D8A-B9FF-BF6A5957D4D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesEstaticas02.Entidades", "..\ClasesEstaticas02\ClasesEstaticas02.Entidades\ClasesEstaticas02.Entidades.csproj", "{80BA2689-5AA6-4B76-9C1A-3D9EFAD25FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34B7C2C-9E7E-4D8A-B9FF-BF6A5957D4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34B7C2C-9E7E-4D8A-B9FF-BF6A5957D4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34B7C2C-9E7E-4D8A-B9FF-BF6A5957D4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34B7C2C-9E7E-4D8A-B9FF-BF6A5957D4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BA2689-5AA6-4B76-9C1A-3D9EFAD25FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BA2689-5AA6-4B76-9C1A-3D9EFAD25FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BA2689-5AA6-4B76-9C1A-3D9EFAD25FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BA2689-5AA6-4B76-9C1A-3D9EFAD25FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C51D9A-BE22-4AFE-9A15-C596F042A789}
+	EndGlobalSection
+EndGlobal
